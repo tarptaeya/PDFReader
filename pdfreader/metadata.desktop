@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=PDFReader
 Comment=PDF reader plugin for falkon
-Icon=
+Icon=icon.svg
 Type=Service
 X-Falkon-Author=Anmol Gautam
 X-Falkon-Email=tarptaeya@gmail.com
